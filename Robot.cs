@@ -9,6 +9,7 @@ namespace LoCoMoCoTest
 {
     public class LoCoMoCo
     {
+		// HELPFUL DOCUMENTATION
         public const byte STOP = 0x7F;
         public const byte FLOAT = 0x0F;
         public const byte FORWARD = 0x6f;
